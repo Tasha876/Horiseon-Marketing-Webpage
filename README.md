@@ -27,12 +27,12 @@ Screenshot of the webpage:
 ![Screenshot of webpage](screencapture.png)
 
 <a name="deployed"></a>
-## 3. Deployed Webpage
+## 5. Deployed Webpage
 [The deployed site](https://tasha876.github.io/Horiseon-Marketing-Webpage/), hosted by GitHub Pages.
 
 <a name="support"></a>
 ## 4. Support
-Should you find an issue with this webpage, please create a [new issue](https://github.com/Tasha876/Horiseon-Marketing-Webpage/issues/new/choose) on my GitHub page.
+Should you find an issue with this webpage, please create a [new issue](https://github.com/Tasha876/Horiseon-Marketing-Webpage/issues/new/choose) on my GitHub repository.
 
 <a name="acknowledge"></a>
 ## 3. Authors and Acknowledgement
