@@ -11,13 +11,13 @@ A refactored webpage made for fictional SEO company Horiseon.
 
 <a name="desc"></a>
 ## 1. Description
-This webpage is just a refactor. No visual changes and only very limited functional changes were made.
+This is just a refactor. No visual changes and only very limited functional changes were made.
 
 ### Summary of Changes
 - all `<div>`s were changed to semantic HTML tags
 - the link to the SEO portion of the page was fixed
 - comments were added to delineate each section of the HTML file
-- the CSS was organize in a more intuitive way
+- the CSS was organized in a more intuitive way
 - comments were added to delineate each section of the CSS file
 - `alt` tags were added to all images
 
@@ -28,7 +28,7 @@ Screenshot of the webpage:
 
 <a name="deployed"></a>
 ## 3. Deployed Webpage
-[The deployed site, hosted by Github Pages](https://tasha876.github.io/Horiseon-Marketing-Webpage/).
+[The deployed site](https://tasha876.github.io/Horiseon-Marketing-Webpage/), hosted by Github Pages.
 
 <a name="support"></a>
 ## 4. Support
