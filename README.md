@@ -28,7 +28,7 @@ Screenshot of the webpage:
 
 <a name="deployed"></a>
 ## 3. Deployed Webpage
-[The deployed site](https://tasha876.github.io/Horiseon-Marketing-Webpage/), hosted by Github Pages.
+[The deployed site](https://tasha876.github.io/Horiseon-Marketing-Webpage/), hosted by GitHub Pages.
 
 <a name="support"></a>
 ## 4. Support
