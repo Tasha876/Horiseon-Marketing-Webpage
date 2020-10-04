@@ -19,7 +19,7 @@ This webpage is just a refactor. No visual changes and only very limited functio
 - comments were added to delineate each section of the HTML file
 - the CSS was organize in a more intuitive way
 - comments were added to delineate each section of the CSS file
-- alt tags were added to all images
+- 'alt' tags were added to all images
 
 <a name="visuals"></a>
 ## 2. Visuals
